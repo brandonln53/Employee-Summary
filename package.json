@@ -1,0 +1,31 @@
+{
+  "name": "employee-summary",
+  "version": "1.0.0",
+  "description": "OOP command lines rendering an html employee summary",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonln53/Employee-Summary"
+  },
+  "author": "Brandon Nelson",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.1.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "jest": "^25.4.0"
+  },
+  "keywords": [
+    "employee",
+    "summary",
+    "role"
+  ]
+}
