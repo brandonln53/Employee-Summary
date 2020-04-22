@@ -10,12 +10,6 @@ There are four classes of employee role:
 - Engineer
 - Intern
 
-## Screenshots![](Employee-SummaryNPMRunTest.png "NPM Run Test")
-
-
-![](InputsEmployee-Summary.png "Question Inputs")
-
 ## Thank You
-
-![](BrandonPhotoWhiteBackground.jpg)  
-[](https://github.com/brandonln53/Employee-Summary)
+https://drive.google.com/open?id=1Umx6iyvWGorlwNlmzvJesW0inZgNB7cq
+https://github.com/brandonln53/Employee-Summary
